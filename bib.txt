@@ -1,0 +1,171 @@
+@article{morgan1976climatic,
+  title={Climatic Indicators in the Estlmation of Municipal Water Demand},
+  author={Morgan, W Douglas and Smolen, Jonathan C},
+  journal={JAWRA Journal of the American Water Resources Association},
+  volume={12},
+  number={3},
+  pages={511--518},
+  year={1976},
+  publisher={Wiley Online Library}
+}
+
+@article{hansen1981monthly,
+  title={A monthly time series model of municipal water demand},
+  author={Hansen, Roger D and Narayanan, Rangesan},
+  journal={JAWRA Journal of the American Water Resources Association},
+  volume={17},
+  number={4},
+  pages={578--585},
+  year={1981},
+  publisher={Wiley Online Library}
+}
+
+@article{bakker2014improving,
+  title={Improving the performance of water demand forecasting models by using weather input},
+  author={Bakker, M and Van Duist, H and Van Schagen, K and Vreeburg, J and Rietveld, L},
+  journal={Procedia Engineering},
+  volume={70},
+  pages={93--102},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{house2011urban,
+  title={Urban water demand modeling: Review of concepts, methods, and organizing principles},
+  author={House-Peters, Lily A and Chang, Heejun},
+  journal={Water Resources Research},
+  volume={47},
+  number={5},
+  year={2011},
+  publisher={Wiley Online Library}
+}
+
+@article{arumugam2017synthesis,
+  title={Synthesis of Public Water Supply Use in the US: Spatio-temporal Patterns and Socio-Economic Controls},
+  author={Arumugam, Sankarasubramanian and Sabo, JL and Larson, KL and Seo, SB and Sinha, T and Bhowmik, R and Vidal, A Ruhi and Kunkel, K and Mahinthakumar, G and Berglund, EZ and others},
+  journal={Earth's Future},
+  year={2017},
+  publisher={Wiley Online Library}
+}
+
+
+@article{candelieri2014urban,
+  title={Urban Water Demand Characterization And Short-Term Forecasting--The ICeWater Project Approach},
+  author={Candelieri, Antonio and Conti, Dante and Cappellini, Davide and Archetti, Francesco},
+  year={2014}
+}
+
+
+@article{joo2002application,
+  title={Application of short-term water demand prediction model to Seoul},
+  author={Joo, CN and Koo, JY and Yu, MJ},
+  journal={Water science and technology},
+  volume={46},
+  number={6-7},
+  pages={255--261},
+  year={2002},
+  publisher={IWA Publishing}
+}
+
+
+@article{park1991electric,
+  title={Electric load forecasting using an artificial neural network},
+  author={Park, Dong C and El-Sharkawi, MA and Marks, RJ and Atlas, LE and Damborg, MJ},
+  journal={IEEE transactions on Power Systems},
+  volume={6},
+  number={2},
+  pages={442--449},
+  year={1991},
+  publisher={IEEE}
+}
+
+@inproceedings{buhari2012short,
+  title={Short-term load forecasting using artificial neural network},
+  author={Buhari, Muhammad and Adamu, Sanusi Sani and others},
+  booktitle={Proceedings of the International Multi-Conference of Engineers and Computer Scientist},
+  volume={1},
+  year={2012}
+}
+
+@inproceedings{kermanshahi1993artificial,
+  title={Artificial neural network for forecasting daily loads of a Canadian electric utility},
+  author={Kermanshahi, BS and Poskar, CH and Swift, G and McLaren, P and Pedrycz, W and Buhr, W and Silk, A},
+  booktitle={Neural Networks to Power Systems, 1993. ANNPS'93., Proceedings of the Second International Forum on Applications of},
+  pages={302--307},
+  year={1993},
+  organization={IEEE}
+}
+
+@article{szkuta1999electricity,
+  title={Electricity price short-term forecasting using artificial neural networks},
+  author={Szkuta, BR and Sanabria, LA and Dillon, TS},
+  journal={IEEE transactions on power systems},
+  volume={14},
+  number={3},
+  pages={851--857},
+  year={1999},
+  publisher={IEEE}
+}
+
+@misc{ncdc,
+  title={National Centers for Environmental Information (NCEI) formerly known as National Climatic Data Center (NCDC)},
+  author={NCEI},
+  year={2017},
+  note={Accessed 07-01-2017.},
+  howpublished={\url{https://www.ncdc.noaa.gov/}}
+}
+
+@misc{census,
+  title={Small Area Income And Poverty Estimates - Interactive Data And Mapping - U.S. Census Bureau},
+  author={U.S. Census Bureau},
+  note={Accessed 07-01-2017.},
+  year={2017},
+  howpublished={\url{https://www.census.gov/did/www/saipe/data/interactive/saipe.html}}
+}
+
+@misc{holidays,
+  title={Holidays And Observances In United States.},
+  author={timeanddate.com},
+  note={Accessed 07-01-2017.},
+  year={2017},
+  howpublished={\url{https://www.timeanddate.com/holidays/us}}
+}
+
+@book{larose2014discovering,
+  title={Discovering knowledge in data: an introduction to data mining},
+  author={Larose, Daniel T},
+  year={2014},
+  publisher={John Wiley \& Sons}
+}
+
+@article{elman1990finding,
+  title={Finding structure in time},
+  author={Elman, Jeffrey L},
+  journal={Cognitive science},
+  volume={14},
+  number={2},
+  pages={179--211},
+  year={1990},
+  publisher={Wiley Online Library}
+}
+
+@article{werbos1990backpropagation,
+  title={Backpropagation through time: what it does and how to do it},
+  author={Werbos, Paul J},
+  journal={Proceedings of the IEEE},
+  volume={78},
+  number={10},
+  pages={1550--1560},
+  year={1990},
+  publisher={IEEE}
+}
+
+@article{pedregosa2011scikit,
+  title={Scikit-learn: Machine learning in Python},
+  author={Pedregosa, Fabian and Varoquaux, Ga{\"e}l and Gramfort, Alexandre and Michel, Vincent and Thirion, Bertrand and Grisel, Olivier and Blondel, Mathieu and Prettenhofer, Peter and Weiss, Ron and Dubourg, Vincent and others},
+  journal={Journal of Machine Learning Research},
+  volume={12},
+  number={Oct},
+  pages={2825--2830},
+  year={2011}
+}
